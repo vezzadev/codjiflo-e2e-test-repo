@@ -1,0 +1,10 @@
+// Second file - added in Commit 4
+// Line 2
+// Line 3
+// Line 4
+// Line 5 (MC-02 comment here)
+// Line 6
+// Line 7 (iter 2 content)
+// Line 8
+// Line 9
+// Line 10

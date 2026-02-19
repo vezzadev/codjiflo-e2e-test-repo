@@ -1,0 +1,14 @@
+// Multi-commit file
+// Line 2: Commit 1
+// Line 3: Commit 1
+// Line 4: Commit 2
+// Line 5: Commit 2
+// Line 6: Commit 3 (MC-01 comment here)
+// Line 7: Commit 3
+// Line 8: Commit 4
+// Line 9: Commit 5 (iter 2)
+// Line 10: Commit 5
+// Line 11: Commit 6
+// Line 12: Commit 6
+// Line 13: Commit 7 (MC-03 comment here)
+// Line 14: Commit 7
