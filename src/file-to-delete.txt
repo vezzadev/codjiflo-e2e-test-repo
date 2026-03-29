@@ -1,0 +1,5 @@
+// This file will be deleted
+const oldCode = 'legacy';
+function deprecated() {}
+// No longer needed
+export {};

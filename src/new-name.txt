@@ -1,0 +1,4 @@
+// This file was renamed
+const content = 'preserved';
+const addedLine = 'after rename';
+export { content };

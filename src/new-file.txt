@@ -1,0 +1,5 @@
+// This is a new file
+const greeting = 'Hello';
+const target = 'World';
+console.log(greeting, target);
+// End of new file
