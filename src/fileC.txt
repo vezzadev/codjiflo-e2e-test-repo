@@ -1,0 +1,3 @@
+// fileC.txt
+const stable = 'preserved';
+const addedInIter3 = 'force-push change';

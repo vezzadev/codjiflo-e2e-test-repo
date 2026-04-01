@@ -1,0 +1,3 @@
+// fileD.txt - new file
+const newFile = 'added in iteration 3';
+const modifiedInIter4 = 'updated';

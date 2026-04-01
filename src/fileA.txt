@@ -1,0 +1,3 @@
+// fileA.txt
+const modified = 'iteration 1';
+const extra = 'added in iter 1';
