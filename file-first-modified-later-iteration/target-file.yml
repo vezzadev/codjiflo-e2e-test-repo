@@ -2,7 +2,8 @@
 # This file exists in the base but is NOT modified in iteration 1
 
 name: 'Target Configuration'
-version: '1.0.0'
+version: '2.0.0'  # Updated in iteration 2
 settings:
   enabled: true
-  debug: false
+  debug: true  # Changed in iteration 2
+  log_level: 'info'  # New setting in iteration 2

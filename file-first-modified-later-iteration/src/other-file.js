@@ -2,7 +2,11 @@
 // target-file.yml will NOT be touched in iteration 1
 
 function helper() {
-  return 'iteration 1 base version';
+  return 'iteration 1 - modified version';
 }
 
-module.exports = { helper };
+function additionalHelper() {
+  return 'new function in iteration 1';
+}
+
+module.exports = { helper, additionalHelper };
